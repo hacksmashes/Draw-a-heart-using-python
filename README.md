@@ -11,3 +11,5 @@ Learn more about the above mentioned modules
 
 Turtle - https://docs.python.org/3/library/turtle.html
 Time - https://docs.python.org/3/library/time.html
+
+For more details please refer Instagram page: https://www.instagram.com/hack_smashes/
